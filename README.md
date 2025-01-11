@@ -1,1 +1,1 @@
-# rili
+# webpack-template
